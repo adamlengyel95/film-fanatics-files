@@ -63,10 +63,11 @@ CREATE TABLE rates (
 );
 
 CREATE TABLE comments (
+	comment_id INT NOT NULL AUTO_INCREMENT,
     movie_id INT,
 	user_id INT,
 	content TEXT COLLATE utf16_hungarian_ci,
-	PRIMARY KEY(movie_id,user_id),
+	PRIMARY KEY(comment_id),
 	FOREIGN KEY(movie_id) REFERENCES Movies(movie_id),
 	FOREIGN KEY(user_id) REFERENCES Users(user_id)
 );
