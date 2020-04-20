@@ -117,7 +117,7 @@ INSERT INTO Artists(artist_name,profile_picture) VALUES("David Fincher","david-f
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Christopher Nolan","christopher-nolan.jpg");
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Guy Ritchie","guy-ritchie.jpg");
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Will Gluck","will-gluck.jpg");
-INSERT INTO Artists(artist_name,profile_picture) VALUES("Damien Chazelle","damian-chazelle.jpg");
+INSERT INTO Artists(artist_name,profile_picture) VALUES("Damien Chazelle","damien-chazelle.jpg");
 
 
 
@@ -137,7 +137,7 @@ INSERT INTO Artists(artist_name,profile_picture) VALUES("Paula Patton","paula-pa
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Brad Pitt","brad-pitt.jpg");
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Diane Kruger","diane-kruger.jpg");
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Mélanie Laurent","melanie-laurent.jpg");
-INSERT INTO Artists(artist_name,profile_picture) VALUES("Christoph Waltz","christoph-wlatz.jpg");
+INSERT INTO Artists(artist_name,profile_picture) VALUES("Christoph Waltz","christoph-waltz.jpg");
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Daniel Brühl","daniel-bruhl.jpg");
 
 INSERT INTO Artists(artist_name,profile_picture) VALUES("John Travolta","john-travolta.jpg");
@@ -175,7 +175,7 @@ INSERT INTO Artists(artist_name,profile_picture) VALUES("Joseph Gordon-Levitt","
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Marion Cotillard","marion-cotillard.jpg");
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Ellen Page","ellen-page.jpg");
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Tom Hardy","tom-hardy.jpg");
-INSERT INTO Artists(artist_name,profile_picture) VALUES("Cillian Murphy","cilian-murphy.jpg");
+INSERT INTO Artists(artist_name,profile_picture) VALUES("Cillian Murphy","cillian-murphy.jpg");
 
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Christian Bale","christian-bale.jpg");
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Heath Ledger","heath-ledger.jpg");
@@ -186,7 +186,7 @@ INSERT INTO Artists(artist_name,profile_picture) VALUES("Aaron Eckhart","aaron-e
 /*INSERT INTO Artists(artist_name,profile_picture) VALUES("Morgan Freeman");*/
 
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Benicio Del Toro","benicio-del-toro.jpg");
-INSERT INTO Artists(artist_name,profile_picture) VALUES("Vinnie Jones","vinne-jones.jpg");
+INSERT INTO Artists(artist_name,profile_picture) VALUES("Vinnie Jones","vinnie-jones.jpg");
 /*INSERT INTO Artists(artist_name,profile_picture) VALUES("Brad Pitt");*/
 INSERT INTO Artists(artist_name,profile_picture) VALUES("Jason Statham","jason-statham.jpg");
 
